@@ -1,0 +1,20 @@
+// notes
+"=" is to assign for example `let test = "hi"` 
+"===" it's for equality and comparison
+When you use `===` for example test === "hi" it will be true
+When you use `===` for example test === "bye" it will be false
+When you use `!==` for example test === "hi" it will be false
+When you use `!==` for example test === "bye" it will be true
+
+
+== is not strict
+=== is strict
+
+// binary if statement
+//   if (name === "Po") {
+//     console.log("Yes, Po is a KF Panda character");
+//   } else {
+//     console.log("You didn't type Po");
+//   }
+
+//  The dashes mean "||" and or an, it gives ,multiple ways to present data
